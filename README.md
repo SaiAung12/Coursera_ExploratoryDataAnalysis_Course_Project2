@@ -2,7 +2,7 @@
 
 This project is submitted by Sai Thu Ya Aung for Coursera: Exploratary Data Analysis Course Project 2.
 
-# Coursera - Exploratory Data Analysis - Course Project 2
+## Coursera - Exploratory Data Analysis - Course Project 2
 https://class.coursera.org/exdata-015
 
 ## Introduction
